@@ -1,0 +1,20 @@
+Welcome to the Keene Git Repository!
+
+//Development/Master Repository: git clone https://rnkeene@bitbucket.org/rnkeene/keene.git
+//Production Clone for MHA Works: git clone https://rnkeene@bitbucket.org/mhaworks/km.git
+
+git add [file]
+//For mass additions (but not updates) use:: git add --all
+git status
+
+//initialize global configs if not already set.
+git config --global user.email "[email]"
+git config --global user.name "[name]"
+
+git commit -m "[message]"
+//For mass updates (but not new files) use:: git commit -a -m "[message]"
+git push -u origin master
+
+//commit to multiple repositories with 'git remote'
+git remote set-url origin --push --add https://rnkeene@bitbucket.org/rnkeene/keene.git
+git remote set-url origin --push --add https://rnkeene@bitbucket.org/mhaworks/km.git
