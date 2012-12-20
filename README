@@ -18,3 +18,5 @@ git push -u origin master
 //commit to multiple repositories with 'git remote'
 git remote set-url origin --push --add https://rnkeene@bitbucket.org/rnkeene/keene.git
 git remote set-url origin --push --add https://rnkeene@bitbucket.org/mhaworks/km.git
+//Revert
+git checkout -- [path to file]
