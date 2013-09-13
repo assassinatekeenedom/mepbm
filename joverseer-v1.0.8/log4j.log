@@ -1,263 +1,903 @@
-13:07:18,656  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:07:18,684  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:07:34,641  INFO ApplicationEventLogger,Thread-8:21 - ** Event ListviewRefreshItems
-13:07:34,666  INFO ApplicationEventLogger,Thread-8:21 - ** Event GameChangedEvent
-13:07:34,775 ERROR ArtifactInfoCollector,AWT-EventQueue-0:77 - Failed to find artifact wrapper for #210 artifact
-13:07:40,137  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:07:40,731  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:07:44,045  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:07:49,831  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:07:53,193  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:06,813  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:07,563  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:10,413  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:14,701  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:16,020  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [toggleLostThisTurnCommand.caption]. Ignoring and returning null.
-13:08:16,021  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [toggleLostThisTurnCommand.description]. Ignoring and returning null.
-13:08:16,021  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'toggleLostThisTurnCommand.icon'; returning a <null> icon.
-13:08:16,022  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'toggleLostThisTurnCommand.large.icon'; returning a <null> icon.
-13:08:16,023  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:16,023  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:16,024  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:16,025  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:16,026  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [deletePopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:16,026  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [deletePopulationCenterCommand.description]. Ignoring and returning null.
-13:08:16,027  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'deletePopulationCenterCommand.icon'; returning a <null> icon.
-13:08:16,027  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'deletePopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:16,028  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:16,029  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:16,029  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:16,030  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:16,030  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:16,031  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:16,031  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:16,032  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:16,032  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:16,033  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:16,034  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:16,035  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:16,035  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:17,128  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:17,128  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:17,129  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:17,129  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:17,154  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:17,155  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:17,156  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:17,157  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:17,157  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:17,219  INFO DefaultApplicationServices,AWT-EventQueue-0:927 - Creating default service impl: BindingFactoryProvider
-13:08:17,298  INFO DefaultApplicationServices,AWT-EventQueue-0:913 - Creating default service impl: BinderSelectionStrategy
-13:08:17,545  INFO DefaultApplicationServices,AWT-EventQueue-0:973 - Creating default service impl: MessageTranslatorFactory
-13:08:17,619  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [undoCommand.description]. Ignoring and returning null.
-13:08:17,643  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'undoCommand.selectedIcon'; returning a <null> icon.
-13:08:17,644  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'undoCommand.rolloverIcon'; returning a <null> icon.
-13:08:17,644  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'undoCommand.disabledIcon'; returning a <null> icon.
-13:08:17,644  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'undoCommand.pressedIcon'; returning a <null> icon.
-13:08:17,645  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'undoCommand.large.icon'; returning a <null> icon.
-13:08:17,645  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [redoCommand.description]. Ignoring and returning null.
-13:08:17,646  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'redoCommand.selectedIcon'; returning a <null> icon.
-13:08:17,646  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'redoCommand.rolloverIcon'; returning a <null> icon.
-13:08:17,647  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'redoCommand.disabledIcon'; returning a <null> icon.
-13:08:17,647  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'redoCommand.pressedIcon'; returning a <null> icon.
-13:08:17,647  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'redoCommand.large.icon'; returning a <null> icon.
-13:08:17,648  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [copyCommand.description]. Ignoring and returning null.
-13:08:17,653  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'copyCommand.selectedIcon'; returning a <null> icon.
-13:08:17,653  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'copyCommand.rolloverIcon'; returning a <null> icon.
-13:08:17,653  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'copyCommand.disabledIcon'; returning a <null> icon.
-13:08:17,654  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'copyCommand.pressedIcon'; returning a <null> icon.
-13:08:17,654  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'copyCommand.large.icon'; returning a <null> icon.
-13:08:17,654  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cutCommand.description]. Ignoring and returning null.
-13:08:17,655  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cutCommand.selectedIcon'; returning a <null> icon.
-13:08:17,656  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cutCommand.rolloverIcon'; returning a <null> icon.
-13:08:17,656  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cutCommand.disabledIcon'; returning a <null> icon.
-13:08:17,656  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cutCommand.pressedIcon'; returning a <null> icon.
-13:08:17,656  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cutCommand.large.icon'; returning a <null> icon.
-13:08:17,657  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [pasteCommand.description]. Ignoring and returning null.
-13:08:17,659  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'pasteCommand.selectedIcon'; returning a <null> icon.
-13:08:17,659  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'pasteCommand.rolloverIcon'; returning a <null> icon.
-13:08:17,659  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'pasteCommand.disabledIcon'; returning a <null> icon.
-13:08:17,659  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'pasteCommand.pressedIcon'; returning a <null> icon.
-13:08:17,660  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'pasteCommand.large.icon'; returning a <null> icon.
-13:08:17,660  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [selectAllCommand.description]. Ignoring and returning null.
-13:08:17,660  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'selectAllCommand.icon'; returning a <null> icon.
-13:08:17,661  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'selectAllCommand.large.icon'; returning a <null> icon.
-13:08:17,662  INFO DefaultApplicationServices,AWT-EventQueue-0:920 - Creating default service impl: FieldFaceSource
-13:08:17,782  INFO DefaultApplicationServices,AWT-EventQueue-0:906 - Creating default service impl: ConversionService
-13:08:18,067  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:18,068  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:18,069  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:18,069  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:18,070  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:18,071  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:18,071  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:18,072  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:20,682  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
-13:08:21,962  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:23,045  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:23,045  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:23,045  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:23,046  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:23,046  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:23,046  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:23,047  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:23,047  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:23,047  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:23,048  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:23,048  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:23,048  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:23,048  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:23,049  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[CommandGroup@6e4c469d id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[CommandGroup@51b025fd id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
-13:08:23,807  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:23,808  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:23,809  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:23,810  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:23,827  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:23,828  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:23,829  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:23,829  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:23,830  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:23,882  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:23,882  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:23,882  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:23,882  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:23,883  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:23,883  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:23,883  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:23,883  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:25,270  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
-13:08:26,620  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:27,470  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:27,471  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:27,471  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:27,472  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:27,472  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:27,472  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:27,473  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:27,473  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:27,473  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:27,474  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:27,474  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:27,474  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:27,475  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:27,475  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[CommandGroup@51b025fd id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[CommandGroup@2fe07b94 id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
-13:08:28,170  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:28,170  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:28,171  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:28,171  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:28,186  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:28,186  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:28,187  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:28,188  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:28,188  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:28,235  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:28,236  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:28,236  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:28,236  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:28,237  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:28,237  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:28,237  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:28,237  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:29,597  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
-13:08:38,905  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:39,979  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:41,656  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:44,553  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:45,868  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:45,869  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:45,869  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:45,870  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:45,871  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:45,872  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:45,872  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:45,873  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:45,873  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:45,874  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:45,874  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:45,875  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:45,875  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:45,876  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[CommandGroup@2fe07b94 id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[CommandGroup@74606cd6 id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
-13:08:46,758  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:46,759  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:46,759  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:46,760  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:46,777  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:46,778  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:46,778  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:46,779  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:46,780  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:46,829  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:46,829  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:46,829  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:46,830  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:46,830  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:46,830  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:46,830  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:46,831  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:48,482  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
-13:08:50,030  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:51,164  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:51,164  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:51,165  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:51,165  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:51,165  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:51,166  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:51,166  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:51,166  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:51,166  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:51,166  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:51,167  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:51,167  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:51,167  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:51,167  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[CommandGroup@74606cd6 id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[CommandGroup@73f8418c id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
-13:08:51,865  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:51,865  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:51,866  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:51,866  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:51,882  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:51,883  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:51,883  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:51,884  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:51,884  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:51,918  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:51,918  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:51,919  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:51,919  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:51,919  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:51,919  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:51,919  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:51,920  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:53,414  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
-13:08:54,928  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
-13:08:56,396  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.caption]. Ignoring and returning null.
-13:08:56,397  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showCaptureInformationCommand.description]. Ignoring and returning null.
-13:08:56,397  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.icon'; returning a <null> icon.
-13:08:56,397  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showCaptureInformationCommand.large.icon'; returning a <null> icon.
-13:08:56,398  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.caption]. Ignoring and returning null.
-13:08:56,398  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [showInfoSourcePopupCommand.description]. Ignoring and returning null.
-13:08:56,398  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.icon'; returning a <null> icon.
-13:08:56,399  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'showInfoSourcePopupCommand.large.icon'; returning a <null> icon.
-13:08:56,399  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.label]. Ignoring and returning null.
-13:08:56,399  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.caption]. Ignoring and returning null.
-13:08:56,399  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [populationCenterCommandGroup.description]. Ignoring and returning null.
-13:08:56,400  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.icon'; returning a <null> icon.
-13:08:56,400  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'populationCenterCommandGroup.large.icon'; returning a <null> icon.
-13:08:56,400  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[CommandGroup@73f8418c id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[CommandGroup@1b7fa154 id = 'populationCenterCommandGroup', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
-13:08:57,243  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.label]. Ignoring and returning null.
-13:08:57,244  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPopulationCenterForm.caption]. Ignoring and returning null.
-13:08:57,244  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'editPopulationCenterForm.image' does not exist in image bundle; continuing...
-13:08:57,245  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPopulationCenterForm.icon'; returning a <null> icon.
-13:08:57,262  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
-13:08:57,262  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
-13:08:57,263  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
-13:08:57,264  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
-13:08:57,264  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
-13:08:57,305  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
-13:08:57,306  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
-13:08:57,306  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
-13:08:57,306  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
-13:08:57,307  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.caption]. Ignoring and returning null.
-13:08:57,307  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [cancelCommand.description]. Ignoring and returning null.
-13:08:57,307  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.icon'; returning a <null> icon.
-13:08:57,308  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'cancelCommand.large.icon'; returning a <null> icon.
-13:08:58,878  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedTurnChangedEvent
+11:28:54,852  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [importOrdersFromEmailTextCommand.description]. Ignoring and returning null.
+11:28:54,852  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'importOrdersFromEmailTextCommand.selectedIcon'; returning a <null> icon.
+11:28:54,853  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'importOrdersFromEmailTextCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,853  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'importOrdersFromEmailTextCommand.disabledIcon'; returning a <null> icon.
+11:28:54,853  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'importOrdersFromEmailTextCommand.pressedIcon'; returning a <null> icon.
+11:28:54,853  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'importOrdersFromEmailTextCommand.large.icon'; returning a <null> icon.
+11:28:54,854  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[ImportOrdersFromEmailTextCommand@4d5fd23f id = 'importOrdersFromEmailTextCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[ImportOrdersFromEmailTextCommand@4de44dc8 id = 'importOrdersFromEmailTextCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
+11:28:54,854  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [exportOrderTextCommand.description]. Ignoring and returning null.
+11:28:54,854  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.selectedIcon'; returning a <null> icon.
+11:28:54,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.disabledIcon'; returning a <null> icon.
+11:28:54,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.pressedIcon'; returning a <null> icon.
+11:28:54,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.large.icon'; returning a <null> icon.
+11:28:54,856  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [exportOrderTextCommand.description]. Ignoring and returning null.
+11:28:54,856  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.selectedIcon'; returning a <null> icon.
+11:28:54,856  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,857  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.disabledIcon'; returning a <null> icon.
+11:28:54,857  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.pressedIcon'; returning a <null> icon.
+11:28:54,857  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'exportOrderTextCommand.large.icon'; returning a <null> icon.
+11:28:54,857  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[ExportOrderTextCommand@528236e id = 'exportOrderTextCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[ExportOrderTextCommand@e2e0d67 id = 'exportOrderTextCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
+11:28:54,858  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [clearMapItemsCommand.description]. Ignoring and returning null.
+11:28:54,858  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.selectedIcon'; returning a <null> icon.
+11:28:54,858  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,859  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.disabledIcon'; returning a <null> icon.
+11:28:54,859  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.pressedIcon'; returning a <null> icon.
+11:28:54,859  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.large.icon'; returning a <null> icon.
+11:28:54,859  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [clearMapItemsCommand.description]. Ignoring and returning null.
+11:28:54,860  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.selectedIcon'; returning a <null> icon.
+11:28:54,860  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,860  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.disabledIcon'; returning a <null> icon.
+11:28:54,860  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.pressedIcon'; returning a <null> icon.
+11:28:54,861  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'clearMapItemsCommand.large.icon'; returning a <null> icon.
+11:28:54,861  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[ClearMapItems@2e107190 id = 'clearMapItemsCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[ClearMapItems@398fbc90 id = 'clearMapItemsCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
+11:28:54,861  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPreferencesCommand.description]. Ignoring and returning null.
+11:28:54,862  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.selectedIcon'; returning a <null> icon.
+11:28:54,862  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,862  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.disabledIcon'; returning a <null> icon.
+11:28:54,862  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.pressedIcon'; returning a <null> icon.
+11:28:54,863  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.large.icon'; returning a <null> icon.
+11:28:54,863  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [editPreferencesCommand.description]. Ignoring and returning null.
+11:28:54,863  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.selectedIcon'; returning a <null> icon.
+11:28:54,864  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.rolloverIcon'; returning a <null> icon.
+11:28:54,864  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.disabledIcon'; returning a <null> icon.
+11:28:54,864  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.pressedIcon'; returning a <null> icon.
+11:28:54,864  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'editPreferencesCommand.large.icon'; returning a <null> icon.
+11:28:54,865  WARN DefaultCommandRegistry,AWT-EventQueue-0:198 - The command [[EditPreferencesCommand@15f1192d id = 'editPreferencesCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']] was overwritten in the registry with the command [[EditPreferencesCommand@7abe49c id = 'editPreferencesCommand', enabled = true, visible = true, defaultFaceDescriptorId = 'default']]
+11:28:54,866  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [menuBar.label]. Ignoring and returning null.
+11:28:54,866  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [menuBar.caption]. Ignoring and returning null.
+11:28:54,866  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [menuBar.description]. Ignoring and returning null.
+11:28:54,867  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'menuBar.icon'; returning a <null> icon.
+11:28:54,867  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'menuBar.large.icon'; returning a <null> icon.
+11:28:54,867  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [toolBar.label]. Ignoring and returning null.
+11:28:54,867  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [toolBar.caption]. Ignoring and returning null.
+11:28:54,868  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [toolBar.description]. Ignoring and returning null.
+11:28:54,868  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'toolBar.icon'; returning a <null> icon.
+11:28:54,868  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'toolBar.large.icon'; returning a <null> icon.
+11:28:55,001  INFO JideApplicationPage,AWT-EventQueue-0:67 - Constructing Application page mainPage
+11:28:55,030  INFO JideApplicationWindowFactory$1,AWT-EventQueue-0:67 - Applying standard layout
+11:28:55,031  INFO DefaultApplicationServices,AWT-EventQueue-0:809 - Creating default service impl: MenuFactory
+11:28:55,225  INFO DefaultApplicationServices,AWT-EventQueue-0:816 - Creating default service impl: ButtonFactory
+11:28:55,225  INFO DefaultApplicationServices,AWT-EventQueue-0:830 - Creating default service impl: ComponentFactory
+11:28:55,630  INFO DefaultApplicationServices,AWT-EventQueue-0:1020 - Creating default service impl: PageComponentPaneFactory
+11:28:55,636  INFO DefaultApplicationServices,AWT-EventQueue-0:934 - Creating default service impl: ValueChangeDetector
+11:28:56,029  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view artifactInfoListView
+11:28:56,029  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component artifactInfoListView
+11:28:56,261  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view companyListView
+11:28:56,261  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component companyListView
+11:28:57,170  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view encounterListView
+11:28:57,170  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component encounterListView
+11:28:57,224  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view enemyCharacterRumorListView
+11:28:57,224  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component enemyCharacterRumorListView
+11:28:57,247  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view locateArtifactResultListView
+11:28:57,248  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component locateArtifactResultListView
+11:28:57,288  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view nationMessageListView
+11:28:57,288  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component nationMessageListView
+11:28:57,394  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view orderListView
+11:28:57,395  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component orderListView
+11:28:57,409  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view nationProductionListView
+11:28:57,409  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component nationProductionListView
+11:28:57,454  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view relationsListView
+11:28:57,454  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component relationsListView
+11:28:57,514  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view spellcasterListView
+11:28:57,515  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component spellcasterListView
+11:28:57,527  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view ownedArtifactsListView
+11:28:57,527  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component ownedArtifactsListView
+11:28:57,585  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view trackCharacterListView
+11:28:57,585  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component trackCharacterListView
+11:28:57,601  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view spellInfoListView
+11:28:57,601  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component spellInfoListView
+11:28:57,697  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event MapMetadataChangedEvent
+11:28:57,701  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view mapOptionsView
+11:28:57,702  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component mapOptionsView
+11:28:57,824  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view economyCalculatorView
+11:28:57,824  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component economyCalculatorView
+11:28:57,883  INFO DefaultApplicationServices,AWT-EventQueue-0:948 - Creating default service impl: SecurityControllerManager
+11:28:57,900  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.label]. Ignoring and returning null.
+11:28:57,901  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.caption]. Ignoring and returning null.
+11:28:57,901  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newPopulationCenterCommand.description]. Ignoring and returning null.
+11:28:57,901  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.icon'; returning a <null> icon.
+11:28:57,901  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newPopulationCenterCommand.large.icon'; returning a <null> icon.
+11:28:57,998  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:57,998  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:57,998  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:57,999  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:57,999  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,004  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,004  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,005  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,005  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,005  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,010  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,010  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,010  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,011  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,011  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,015  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,016  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,016  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,016  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,016  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,021  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,021  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,021  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,022  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,022  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,026  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,026  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,027  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,027  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,027  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,030  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,030  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,031  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,031  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,031  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,034  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,034  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,034  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,035  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,035  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,039  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,039  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,039  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,039  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,039  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,042  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,043  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,043  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,043  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,043  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,046  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,046  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,046  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,047  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,047  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,050  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,050  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,051  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,051  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,051  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,055  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,055  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,055  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,055  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,055  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,058  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,059  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,059  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,059  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,059  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,062  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,063  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,063  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,063  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,063  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,066  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,067  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,067  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,067  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,067  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,070  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,071  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,071  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,071  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,071  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,074  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,074  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,074  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,075  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,075  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,078  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,078  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,078  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,078  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,078  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,081  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.label]. Ignoring and returning null.
+11:28:58,082  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.caption]. Ignoring and returning null.
+11:28:58,082  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArmyCommand.description]. Ignoring and returning null.
+11:28:58,082  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.icon'; returning a <null> icon.
+11:28:58,082  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArmyCommand.large.icon'; returning a <null> icon.
+11:28:58,098  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,098  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,098  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,099  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,099  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,150  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,150  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,150  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,150  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,150  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,184  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,184  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,184  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,184  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,184  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,217  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,217  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,217  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,217  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,218  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,250  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,250  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,250  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,250  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,251  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,283  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,283  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,284  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,284  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,284  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,315  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,315  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,315  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,316  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,316  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,348  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,348  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,349  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,349  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,349  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,381  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,382  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,382  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,382  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,382  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,423  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,423  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,424  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,424  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,424  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,459  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,459  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,459  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,459  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,460  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,495  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,495  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,496  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,496  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,496  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,524  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,525  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,525  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,525  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,525  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,554  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,554  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,554  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,555  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,555  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,588  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,588  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,588  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,588  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,589  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,617  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,617  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,617  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,617  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,618  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,648  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,648  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,648  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,648  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,649  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,677  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,677  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,678  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,678  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,678  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,705  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,705  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,705  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,705  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,705  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,733  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,734  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,734  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,734  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,734  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,764  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,765  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,765  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,765  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,765  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,802  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,802  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,802  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,803  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,803  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,866  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,867  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,867  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,867  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,867  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,896  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,896  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,896  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,897  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,897  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,930  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,930  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,930  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,930  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,930  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:58,966  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:58,966  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:58,966  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:58,966  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:58,967  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,004  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,004  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,004  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,005  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,005  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,036  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,036  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,036  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,036  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,037  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,069  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,069  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,069  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,069  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,069  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,097  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,097  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,097  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,098  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,098  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,124  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,124  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,124  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,124  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,125  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,151  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,151  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,151  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,152  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,152  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,178  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,178  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,179  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,179  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,179  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,208  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,209  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,209  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,209  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,209  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,240  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,241  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,241  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,241  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,241  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,269  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,269  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,269  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,269  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,270  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,323  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,323  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,323  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,323  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,324  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,352  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,352  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,352  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,352  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,353  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,393  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,393  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,393  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,394  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,395  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,434  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,434  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,435  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,435  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,435  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,462  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,462  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,462  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,462  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,462  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,490  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,490  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,491  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,491  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,491  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,524  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,525  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,525  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,525  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,525  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,545  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,545  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,545  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,545  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,545  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,567  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,567  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,567  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,567  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,568  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,586  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,587  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,587  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,587  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,587  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,607  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,607  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,607  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,607  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,607  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,630  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,631  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,631  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,631  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,631  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,651  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,652  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,652  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,652  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,652  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,678  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.label]. Ignoring and returning null.
+11:28:59,678  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.caption]. Ignoring and returning null.
+11:28:59,678  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCharacterCommand.description]. Ignoring and returning null.
+11:28:59,679  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.icon'; returning a <null> icon.
+11:28:59,679  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCharacterCommand.large.icon'; returning a <null> icon.
+11:28:59,701  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,701  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,702  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,702  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,702  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,704  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,704  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,704  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,704  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,705  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,706  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,706  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,707  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,707  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,707  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,708  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,708  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,709  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,709  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,709  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,710  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,710  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,710  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,711  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,711  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,712  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,712  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,712  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,712  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,713  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,714  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,715  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,715  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,715  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,715  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,717  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,717  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,718  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,718  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,718  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,720  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,720  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,720  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,721  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,721  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,722  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,722  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,722  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,723  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,723  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,724  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,724  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,724  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,724  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,724  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,725  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,726  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,726  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,726  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,726  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,727  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,727  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,727  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,728  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,728  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,729  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,729  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,729  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,729  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,729  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,730  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,730  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,731  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,731  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,731  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,732  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,732  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,732  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,732  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,732  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,733  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,734  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,734  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,734  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,734  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,735  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,735  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,735  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,735  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,735  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,737  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,737  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,737  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,737  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,737  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,738  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.label]. Ignoring and returning null.
+11:28:59,739  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.caption]. Ignoring and returning null.
+11:28:59,739  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newArtifactCommand.description]. Ignoring and returning null.
+11:28:59,739  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.icon'; returning a <null> icon.
+11:28:59,739  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newArtifactCommand.large.icon'; returning a <null> icon.
+11:28:59,741  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,741  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,741  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,742  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,742  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,743  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,743  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,743  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,743  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,744  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,745  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,745  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,745  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,745  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,745  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,746  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,747  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,747  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,747  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,747  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,749  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,749  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,749  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,749  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,749  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,750  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,750  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,751  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,751  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,751  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,752  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,752  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,752  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,752  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,752  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,753  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,754  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,754  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,754  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,754  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,755  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,755  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,755  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,755  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,756  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,757  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,757  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,757  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,757  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,757  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,758  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,759  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,759  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,759  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,759  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,760  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,760  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,760  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,761  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,761  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,762  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,762  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,762  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,762  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,762  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,763  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,763  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,764  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,764  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,764  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,765  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,766  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,766  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,766  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,767  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,768  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,769  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,769  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,769  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,769  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,771  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,771  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,771  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,772  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,772  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,773  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,773  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,774  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,774  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,774  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,775  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,775  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,775  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,775  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,776  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,777  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.label]. Ignoring and returning null.
+11:28:59,777  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.caption]. Ignoring and returning null.
+11:28:59,777  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newNationMessageCommand.description]. Ignoring and returning null.
+11:28:59,777  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.icon'; returning a <null> icon.
+11:28:59,777  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newNationMessageCommand.large.icon'; returning a <null> icon.
+11:28:59,780  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.label]. Ignoring and returning null.
+11:28:59,780  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.caption]. Ignoring and returning null.
+11:28:59,780  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.description]. Ignoring and returning null.
+11:28:59,780  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.icon'; returning a <null> icon.
+11:28:59,780  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.large.icon'; returning a <null> icon.
+11:28:59,782  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.label]. Ignoring and returning null.
+11:28:59,782  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.caption]. Ignoring and returning null.
+11:28:59,782  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.description]. Ignoring and returning null.
+11:28:59,782  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.icon'; returning a <null> icon.
+11:28:59,782  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.large.icon'; returning a <null> icon.
+11:28:59,783  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.label]. Ignoring and returning null.
+11:28:59,783  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.caption]. Ignoring and returning null.
+11:28:59,784  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.description]. Ignoring and returning null.
+11:28:59,784  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.icon'; returning a <null> icon.
+11:28:59,784  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.large.icon'; returning a <null> icon.
+11:28:59,785  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.label]. Ignoring and returning null.
+11:28:59,785  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.caption]. Ignoring and returning null.
+11:28:59,785  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.description]. Ignoring and returning null.
+11:28:59,785  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.icon'; returning a <null> icon.
+11:28:59,785  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.large.icon'; returning a <null> icon.
+11:28:59,786  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.label]. Ignoring and returning null.
+11:28:59,786  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.caption]. Ignoring and returning null.
+11:28:59,787  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newCombatCommand.description]. Ignoring and returning null.
+11:28:59,787  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.icon'; returning a <null> icon.
+11:28:59,787  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newCombatCommand.large.icon'; returning a <null> icon.
+11:28:59,836  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.label]. Ignoring and returning null.
+11:28:59,836  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.caption]. Ignoring and returning null.
+11:28:59,837  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.description]. Ignoring and returning null.
+11:28:59,837  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.icon'; returning a <null> icon.
+11:28:59,838  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.large.icon'; returning a <null> icon.
+11:28:59,842  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.label]. Ignoring and returning null.
+11:28:59,842  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.caption]. Ignoring and returning null.
+11:28:59,843  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.description]. Ignoring and returning null.
+11:28:59,843  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.icon'; returning a <null> icon.
+11:28:59,844  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.large.icon'; returning a <null> icon.
+11:28:59,846  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.label]. Ignoring and returning null.
+11:28:59,847  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.caption]. Ignoring and returning null.
+11:28:59,848  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.description]. Ignoring and returning null.
+11:28:59,849  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.icon'; returning a <null> icon.
+11:28:59,849  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.large.icon'; returning a <null> icon.
+11:28:59,853  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.label]. Ignoring and returning null.
+11:28:59,854  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.caption]. Ignoring and returning null.
+11:28:59,854  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.description]. Ignoring and returning null.
+11:28:59,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.icon'; returning a <null> icon.
+11:28:59,855  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.large.icon'; returning a <null> icon.
+11:28:59,857  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.label]. Ignoring and returning null.
+11:28:59,857  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.caption]. Ignoring and returning null.
+11:28:59,857  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newEncounterCommand.description]. Ignoring and returning null.
+11:28:59,858  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.icon'; returning a <null> icon.
+11:28:59,858  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newEncounterCommand.large.icon'; returning a <null> icon.
+11:28:59,868  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newHexCommand.label]. Ignoring and returning null.
+11:28:59,868  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newHexCommand.caption]. Ignoring and returning null.
+11:28:59,869  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newHexCommand.description]. Ignoring and returning null.
+11:28:59,869  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newHexCommand.icon'; returning a <null> icon.
+11:28:59,869  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newHexCommand.large.icon'; returning a <null> icon.
+11:28:59,911  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view currentHexDataViewer
+11:28:59,911  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component currentHexDataViewer
+11:28:59,962  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view mapView
+11:28:59,962  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component mapView
+11:28:59,965  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOrderCommand.label]. Ignoring and returning null.
+11:28:59,965  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOrderCommand.caption]. Ignoring and returning null.
+11:28:59,966  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOrderCommand.description]. Ignoring and returning null.
+11:28:59,966  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newOrderCommand.icon'; returning a <null> icon.
+11:28:59,966  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newOrderCommand.large.icon'; returning a <null> icon.
+11:29:00,009  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view orderEditorView
+11:29:00,010  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component orderEditorView
+11:29:00,021  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view characterListView
+11:29:00,021  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component characterListView
+11:29:00,032  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view armyListView
+11:29:00,032  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component armyListView
+11:29:00,043  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view populationCenterListView
+11:29:00,043  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component populationCenterListView
+11:29:00,049  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view nationEconomyListView
+11:29:00,050  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component nationEconomyListView
+11:29:00,070  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view armySizeEstimatesListView
+11:29:00,071  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component armySizeEstimatesListView
+11:29:00,077  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view nationEconomyPotentialsListView
+11:29:00,078  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component nationEconomyPotentialsListView
+11:29:00,085  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view pdfFileView
+11:29:00,085  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component pdfFileView
+11:29:00,093  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view startingCharacterListView
+11:29:00,093  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component startingCharacterListView
+11:29:00,123  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view infoView
+11:29:00,123  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component infoView
+11:29:00,131  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view orderInfoView
+11:29:00,132  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component orderInfoView
+11:29:00,145  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view advancedArtifactListView
+11:29:00,145  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component advancedArtifactListView
+11:29:00,158  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view armyEstimatesListView
+11:29:00,159  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component armyEstimatesListView
+11:29:00,179  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view advancedCharacterListView
+11:29:00,179  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component advancedCharacterListView
+11:29:00,188  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view nationStatisticsListView
+11:29:00,189  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component nationStatisticsListView
+11:29:00,210  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view teamEconomyView
+11:29:00,210  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component teamEconomyView
+11:29:00,226  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view notesListView
+11:29:00,226  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component notesListView
+11:29:00,474  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view turnReportView
+11:29:00,474  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component turnReportView
+11:29:00,480  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view gameEncountersReportView
+11:29:00,481  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component gameEncountersReportView
+11:29:00,490  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view orderResultsView
+11:29:00,490  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component orderResultsView
+11:29:00,499  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view playerInfoListView
+11:29:00,499  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component playerInfoListView
+11:29:00,506  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view combatCalcView
+11:29:00,507  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component combatCalcView
+11:29:00,519  INFO JideApplicationPage,AWT-EventQueue-0:225 - Registering view mapEditorView
+11:29:00,520  INFO JideApplicationPage,AWT-EventQueue-0:43 - Creating dockable frame for page component mapEditorView
+11:29:07,817  INFO LayoutManager,AWT-EventQueue-0:66 - Used existing layout
+11:29:15,544  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event MapMetadataChangedEvent
+11:29:15,665  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event GameChangedEvent
+11:29:16,011  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:29:16,110  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:29:17,149 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Pon Opar -23
+11:29:17,161 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Jer Rae null
+11:29:17,162 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Sazar Parn null
+11:29:17,162 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Jer Jer null
+11:29:17,162 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Blaster null
+11:29:17,752 ERROR ArtifactInfoCollector,AWT-EventQueue-0:77 - Failed to find artifact wrapper for #46 artifact
+11:29:17,755 ERROR ArtifactInfoCollector,AWT-EventQueue-0:77 - Failed to find artifact wrapper for #151 Palantír of Minas Ithil
+11:33:07,202  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [jOverseerClientProgressMonitor.label]. Ignoring and returning null.
+11:33:07,203  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [jOverseerClientProgressMonitor.caption]. Ignoring and returning null.
+11:33:07,204  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'jOverseerClientProgressMonitor.image' does not exist in image bundle; continuing...
+11:33:07,205  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'jOverseerClientProgressMonitor.icon'; returning a <null> icon.
+11:33:07,300  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOpenXmlAndPdfDirCommand.label]. Ignoring and returning null.
+11:33:07,302  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOpenXmlAndPdfDirCommand.caption]. Ignoring and returning null.
+11:33:07,303  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newOpenXmlAndPdfDirCommand.description]. Ignoring and returning null.
+11:33:07,304  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newOpenXmlAndPdfDirCommand.icon'; returning a <null> icon.
+11:33:07,305  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newOpenXmlAndPdfDirCommand.large.icon'; returning a <null> icon.
+11:33:07,346  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
+11:33:07,346  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
+11:33:07,347  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
+11:33:07,347  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
+11:33:15,795 ERROR TurnPdfReader,Thread-5:1163 - failed to parse character Breau
+11:33:15,796 ERROR TurnPdfReader,Thread-5:1164 - java.lang.NullPointerException
+11:33:15,910  INFO ApplicationEventLogger,Thread-5:21 - ** Event ListviewRefreshItems
+11:33:15,920  INFO ApplicationEventLogger,Thread-5:21 - ** Event GameChangedEvent
+11:33:15,998 ERROR ArtifactInfoCollector,AWT-EventQueue-0:77 - Failed to find artifact wrapper for #46 artifact
+11:33:16,000 ERROR ArtifactInfoCollector,AWT-EventQueue-0:77 - Failed to find artifact wrapper for #151 Palantír of Minas Ithil
+11:33:16,886 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Tyseus null
+11:33:16,887 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Zebulon null
+11:33:16,887 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Tisha null
+11:33:16,888 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Adûnaphel null
+11:33:16,888 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Ordimup null
+11:33:16,888 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Balkhmog null
+11:33:16,889 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Benalcazar -26
+11:33:16,890 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Lômiphel -26
+11:33:16,890 ERROR MapPanel,AWT-EventQueue-0:426 - Error rendering character Ulcathur -26
+11:37:03,531  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:08,159  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:12,855  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:16,506  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:24,375  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:33,062  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:36,601  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:39,950  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:43,357  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:45,581  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:48,376  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:49,017  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:50,120  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:51,242  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:51,626  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:52,082  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:52,884  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:53,356  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:54,530  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:54,962  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:56,198  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:56,994  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:58,112  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:58,522  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:37:59,595  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:00,183  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:08,290  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:10,816  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:13,218  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:16,292  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:17,226  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:18,344  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:21,157  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:24,530  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:26,988  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:29,294  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:29,658  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:30,129  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:32,608  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:33,170  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:34,314  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:35,094  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:39,774  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:40,430  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:42,978  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:46,346  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:49,072  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:38:57,922  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:02,307  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:11,739  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:12,772  INFO CombatViewer$ShowDescriptionCommand,AWT-EventQueue-0:340 - Lazily instantiating default face descriptor on behalf of caller to prevent npe; command is being configured manually, right?
+11:39:12,772  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [combatCommandGroup.label]. Ignoring and returning null.
+11:39:12,772  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [combatCommandGroup.caption]. Ignoring and returning null.
+11:39:12,773  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [combatCommandGroup.description]. Ignoring and returning null.
+11:39:12,773  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'combatCommandGroup.icon'; returning a <null> icon.
+11:39:12,773  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'combatCommandGroup.large.icon'; returning a <null> icon.
+11:39:13,333  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [narrationForm.label]. Ignoring and returning null.
+11:39:13,333  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [narrationForm.caption]. Ignoring and returning null.
+11:39:13,334  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:724 - Labelable object's image 'narrationForm.image' does not exist in image bundle; continuing...
+11:39:13,335  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'narrationForm.icon'; returning a <null> icon.
+11:39:13,355  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newStringCommand.label]. Ignoring and returning null.
+11:39:13,356  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newStringCommand.caption]. Ignoring and returning null.
+11:39:13,356  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [newStringCommand.description]. Ignoring and returning null.
+11:39:13,356  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newStringCommand.icon'; returning a <null> icon.
+11:39:13,357  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'newStringCommand.large.icon'; returning a <null> icon.
+11:39:13,359  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.caption]. Ignoring and returning null.
+11:39:13,359  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [okCommand.description]. Ignoring and returning null.
+11:39:13,359  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.icon'; returning a <null> icon.
+11:39:13,359  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'okCommand.large.icon'; returning a <null> icon.
+11:39:17,930  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:18,478  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:18,950  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:20,647  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:21,790  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:26,231  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:29,058  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:29,644  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:30,047  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:30,902  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:34,817  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:39,073  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:40,315  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:44,564  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:48,950  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:53,111  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:53,908  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:57,513  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:39:58,779  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:40:02,030  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:40:12,361  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:40:18,779  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+11:40:19,420  INFO ApplicationEventLogger,AWT-EventQueue-0:21 - ** Event SelectedHexChangedEvent
+16:24:21,182  INFO LayoutManager,AWT-EventQueue-0:94 - Saving layout for page mainPage
+16:24:21,274  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [yesCommand.caption]. Ignoring and returning null.
+16:24:21,274  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [yesCommand.description]. Ignoring and returning null.
+16:24:21,275  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'yesCommand.icon'; returning a <null> icon.
+16:24:21,276  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'yesCommand.large.icon'; returning a <null> icon.
+16:24:21,276  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [noCommand.caption]. Ignoring and returning null.
+16:24:21,277  INFO DefaultApplicationObjectConfigurer,AWT-EventQueue-0:687 - The message source is unable to find message code [noCommand.description]. Ignoring and returning null.
+16:24:21,277  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'noCommand.icon'; returning a <null> icon.
+16:24:21,278  INFO DefaultIconSource,AWT-EventQueue-0:68 - No image resource found for icon with key 'noCommand.large.icon'; returning a <null> icon.
+16:24:23,585  INFO ClassPathXmlApplicationContext,AWT-EventQueue-0:816 - Closing org.springframework.context.support.ClassPathXmlApplicationContext@76e543fa: display name [org.springframework.context.support.ClassPathXmlApplicationContext@76e543fa]; startup date [Tue Sep 10 11:28:53 EDT 2013]; root of context hierarchy
+16:24:23,586  INFO DefaultListableBeanFactory,AWT-EventQueue-0:392 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@34a5af61: defining beans [application,applicationDescriptor,lifecycleAdvisor,applicationEventMulticaster,rulesSource,memoryStatusBarItem,timeStatusBarItem,resizeStatusBarItem,lookAndFeelConfigurer,serviceLocator,applicationServices,applicationObjectConfigurer,messageSource,imageResourcesFactory,imageSource,iconSource,applicationWindowFactory,applicationPageFactory,com.jidesoft.docking.DockingManager.DOUBLE_CLICK_NONE,com.jidesoft.docking.DockingManager.DOUBLE_CLICK_TO_FLOAT,com.jidesoft.docking.DockingManager.DOUBLE_CLICK_TO_MAXIMIZE,formComponentInterceptorFactory,colorSource,hexNumberRenderer,defaultHexRenderer,hexInfoRenderer,highlightedHexRenderer,orderRenderer,hexValueMapItemRenderer,mapMetadata,gameMetadata,gameHolder,orderVisualizationData,mapOptions,statusBarUpdater,orderEditorForm,orderEditor,HealingProcessor,HealingSpellsProcessor,ProductionRevenueProcessor,mapTooltipHolder,orderResultContainer,org.joverseer.ui.ApplicationEventLogger#0,mapEditorOptions,colorPicker,orderEditorAutoNations,characterInfoCollector,artifactInfoCollector,combatCalculatorHolder,infoRegistry,mainPage,mapView,economyCalculatorView,teamEconomyView,infoView,orderInfoView,pdfFileView,turnReportView,gameEncountersReportView,orderResultsView,currentHexDataViewer,characterListView,hexProductionListView,combatCalcView,playerInfoListView,armyEstimatesListView,nationStatisticsListView,startingCharacterListView,advancedArtifactListView,advancedCharacterListView,armyListView,nationEconomyPotentialsListView,populationCenterListView,ownedArtifactsListView,armySizeEstimatesListView,nationEconomyListView,artifactInfoListView,notesListView,companyListView,encounterListView,enemyCharacterRumorListView,locateArtifactResultListView,nationMessageListView,nationProductionListView,orderListView,relationsListView,spellcasterListView,spellInfoListView,trackCharacterListView,mapOptionsView,mapEditorView,orderEditorView,fullPerspective,com.jidesoft.docking.DockContext.STATE_FRAMEDOCKED,com.jidesoft.docking.DockContext.STATE_AUTOHIDE,com.jidesoft.docking.DockContext.STATE_HIDDEN,com.jidesoft.docking.DockContext.STATE_FLOATING,com.jidesoft.docking.DockContext.DOCK_SIDE_ALL,com.jidesoft.docking.DockContext.DOCK_SIDE_CENTER,com.jidesoft.docking.DockContext.DOCK_SIDE_NORTH,com.jidesoft.docking.DockContext.DOCK_SIDE_SOUTH,com.jidesoft.docking.DockContext.DOCK_SIDE_EAST,com.jidesoft.docking.DockContext.DOCK_SIDE_WEST,yesPrefValue,noPrefValue,onPrefValue,offPrefValue,preferenceRegistry]; root of factory hierarchy
