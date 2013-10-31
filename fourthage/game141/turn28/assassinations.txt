@@ -1,19 +1,21 @@
 T18
- Balkumagîn was assassinated. //???
+ Balkumagîn was assassinated. //C10+; Unknown
 
 T19
  Bawbuzagar was assassinated. //C30+; BaP
- Leegrash was assassinated.  
+ Leegrash was assassinated.  //A60+; BaP
 
 T20
- Suligar was assassinated. 
- Arolic was assassinated. 
- Slûcrac was assassinated. 
+ Suligar was assassinated. //Unknown
+ Arolic was assassinated.  //A50+; BaP
+ Slûcrac was assassinated. //C50+; BaP
+			______________
+			Gimlan E70+; BaP
 
 T22
  Neburcha was assassinated.  //A50+; BaP
-				_______
-				Ulwathe C10/E40+
+			______________
+			Ulwathe C10/E40+; BaP
 
 T23
  Tarîkmagân was assassinated.  //C80+; BaP
@@ -23,8 +25,8 @@ T25
  Ordimup was assassinated. //A50+; GT
  Balkhmog was assassinated. //A40+; BaP
  Lômiphel was assassinated. //E80+; BaP
-				________
-				Ufgamog A60+
+			_______________
+			Ufgamog A60+; BaP
 
 T26
  Xanth was assassinated. //A10+; #55 Ring of Curufin
@@ -37,9 +39,12 @@ T28
  Frogluk was assassinated. //A70+; GT
  Ulduin was assassinated. //C30+; BaP
  Waren was assassinated. //C20+; BaP
-				_______
+			______________
 			Azog A20+; BaP
 			Burazog A30+; BaP
 			Orkamur A20+; BaP
 			Silion C10+; BaP
-				
+			_______________
+			Ufgamog A60+; BaP
+			Ulwathe C10/E40+; BaP
+			Gimlan E70+; BaP
