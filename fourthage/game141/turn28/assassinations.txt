@@ -1,0 +1,45 @@
+T18
+ Balkumagîn was assassinated. //???
+
+T19
+ Bawbuzagar was assassinated. //C30+; BaP
+ Leegrash was assassinated.  
+
+T20
+ Suligar was assassinated. 
+ Arolic was assassinated. 
+ Slûcrac was assassinated. 
+
+T22
+ Neburcha was assassinated.  //A50+; BaP
+				_______
+				Ulwathe C10/E40+
+
+T23
+ Tarîkmagân was assassinated.  //C80+; BaP
+
+T25
+ Adûnaphel was assassinated. //E80+; BaP
+ Ordimup was assassinated. //A50+; GT
+ Balkhmog was assassinated. //A40+; BaP
+ Lômiphel was assassinated. //E80+; BaP
+				________
+				Ufgamog A60+
+
+T26
+ Xanth was assassinated. //A10+; #55 Ring of Curufin
+
+T27
+ Ulfang was assassinated. 
+ Pon Acark was assassinated. //C30+; BaP
+
+T28
+ Frogluk was assassinated. //A70+; GT
+ Ulduin was assassinated. //C30+; BaP
+ Waren was assassinated. //C20+; BaP
+				_______
+			Azog A20+; BaP
+			Burazog A30+; BaP
+			Orkamur A20+; BaP
+			Silion C10+; BaP
+				
