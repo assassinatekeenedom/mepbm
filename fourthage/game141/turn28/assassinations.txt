@@ -1,5 +1,10 @@
+T16
+			______________
+			Saptheth C20+; BaP
+
+
 T18
- Balkumagîn was assassinated. //C10+; Unknown
+ Balkumagîn was assassinated. //A60+; with 'Bow' Artifact
 
 T19
  Bawbuzagar was assassinated. //C30+; BaP
@@ -32,7 +37,7 @@ T26
  Xanth was assassinated. //A10+; #55 Ring of Curufin
 
 T27
- Ulfang was assassinated. 
+ Ulfang was assassinated. //A20+; BaP
  Pon Acark was assassinated. //C30+; BaP
 
 T28
