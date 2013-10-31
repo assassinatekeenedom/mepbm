@@ -53,3 +53,4 @@ T28
 			Ufgamog A60+; BaP
 			Ulwathe C10/E40+; BaP
 			Gimlan E70+; BaP
+			Saptheth C20+; BaP
