@@ -43,6 +43,11 @@ T28
  Ulduin was assassinated. 		//C30+; BaP
  Waren was assassinated. 		//C20+; BaP
 
+T29
+ Azog was assassinated.			//A20+; BaP
+ Burazog was assassinated.		//A30+; BaP
+ Orkamur was assassinated.		//A20+; BaP
+ Silion was kidnapped.			//C10+ A20+; BaP
 
 	______________
 	Azog A20+; BaP
