@@ -4,6 +4,7 @@ Brell Serilis (Pl)
 Ordun Halbor (Pl)
 Padrey (Pl)
 Samaub (Pl)
+Rallos Zek (Pl) (doubled by SaS)
 Cinard (La)
 Qesset (La)
 Cjaiin (WC)
@@ -14,7 +15,6 @@ REMAINING TO DOUBLE
 ===================
 PLANE
   AGENTS
-    Rallos Zek (scout for OU/SaS, may already be doubled by ally elsewhere)
     Shadow Walker (newly bribed)
     Tigon (currently scouting!!)
   EMISSARIES
