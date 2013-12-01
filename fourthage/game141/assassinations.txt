@@ -55,7 +55,10 @@ T30
  Athrazoc was assassinated.		//A40+; BaP
  Ulzog was assassinated.		//C30+; SK
 
-
+T30
+ n/a NO TARGETS available
+ --- moving to 3433 with 'Alpha Force'
+ --- moving to 2630 with 'Aquisition Force'
 	_______________
 	Ufgamog A60+; BaP
 	Gimlan E70+; BaP
