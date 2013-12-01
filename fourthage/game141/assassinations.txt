@@ -59,7 +59,11 @@ T30
  n/a NO TARGETS available
  --- moving to 3433 with 'Alpha Force'
  --- moving to 2630 with 'Aquisition Force'
-	_______________
+
+
+
+	Known 'Missed/Spotted' Enemy Target List
+	______________________________
 	Ufgamog A60+; BaP
 	Gimlan E70+; BaP
 	Saptheth C20+; BaP

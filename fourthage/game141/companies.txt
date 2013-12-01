@@ -1,16 +1,65 @@
-Planned to Date:: 18 Characters Used.
+--------------------- KEYS TO SUCCESS ---------------------
 
-10/14 of LA :: naming +7 agents.
-8/15 of PL :: naming +3/4 C/A/Es, + 3/4 As.
+	i.	42 Characters in 2 Nations.
+	ii.	3 Company Commanders, 9 Scouts (w/Artifacts), 15 K/A Toons.
+	iii.	1 Company Commander, 1 Scout, 7 InfOther Toons.
 
----------- ALPHA force / GANK Squad / Primary Attack ----------
+	-----------------------------------
+
+	I.	29/42 Characters
+	II.	1/3 Company Commanders, 7/9 Scouts (w/Artifacts), 5/15 K/A Toons
+	III.	1/1 Company Commanders, 1/1 Scouts, 7/7 InfOther
+
+::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: :::
+::: ::: ::: ::: Checklist for 'Full Power' (complete in order)  ::: ::: ::: :::
+::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: ::: :::
+
+	[ x ] ... need to have 21 characters ... 
+		(@possible-growth); maximize the volume of 'shots on goal'
+
+	[ x ] ... need to have 'control' timber, mounts and leather (strategic); 
+			then add Metals (up to Mi w/effective @market-value)
+		(@controlled-growth)
+
+	[ x ] ... need HC 'border attack' force ...
+		'Control the Bet' (no surprises; make the enemy react/defend); 
+			all enemy borders are 'active' with our troops.
+		(@border-growth); 
+
+	[ x ] ... need to lower taxes to 39% ... 
+		The healthiest and safest economy is one stable long term at 39%.
+		(@reliable-growth); 
+
+	[ x ] ... need to have 'correct' relations with all nations ... 
+		Lower the odds of the enemy 'getting lucky'
+		(@safe-cover)
+
+======================================================================================
+======================	SNA/REGION/PLAYER Realistic Strategy	======================
+======================================================================================
+
+	[ x ] ... LAND to control 2337; need 'best-case' Swap from PLANE.
+		[ x(a) ] ... 1/2 fortifications :: defend from 'surprise' naval invasion.
+		[ x(b) ] ... 1/2 cost ships :: create a 'surprise' naval invasion.
+		[ x(c) ] ... Simply Clear all threats from enemy naval forces (WSx50)
+		[ x(d) ] ... Escort Major Army Transport Fleet
+
+	[ x ] ... PLANE to control 2438; needs 'HC' Support/Overhaul.
+		[ x(a) ] ... flood 2438 with HC, Steel, and Timber (for war machines) ...
+		[ x(b) ] ... flood 2438 with C/E/Xs; Train HC, create uber-powerful AC ...
+		[ x(c) ] ... release 2438 HC/AC/WMs (fed) to threaten valuable PCs ...
+		[ x(d) ] ... Build transports (enough) to mobilize the HC 'anywhere' ...
+
+--------------------------------------------------------------------------------------
+---------------------- ALPHA force / GANK Squad / Primary Attack ---------------------
+--------------------------------------------------------------------------------------
 
 	(1. CC - LA) Company Commander :: Dark
 		C69, M45
 		~~~~~~~~~~~~~~~~~~
 	(2. PS - PL) Primary Scout :: Brell Serilis 
 		A83 (A118 w/Ring of Curufin; transferring this turn)
-	(3. BS - PL) Backup/Training	:: Ordun Halbor 
+	(3. BS - PL) Backup/Training :: Ordun Halbor 
 		A85
 	(4. ES - PL) Tertiary/Misc :: Samaub
 		A85/M15
@@ -26,16 +75,18 @@ Planned to Date:: 18 Characters Used.
 	(9. KA - LA) Assassin/Agent :: Tartas Izain
 		A86
 
----------- BETA force / Aquisition Squad / Secondary Attack  ----------
+--------------------------------------------------------------------------------------
+------------------ BETA force / Aquisition Squad / Secondary Attack ------------------
+--------------------------------------------------------------------------------------
 
 	(1. CC - LA) Company Commander :: Earth
 		C41, E91
 		~~~~~~~~~~~~~~~~~~
 	(2. PS - PL) Primary Scout :: Shadow Walker (ensure doubled)
 		A70
-	(3. BS - PL) Backup/Training :: Tigon (ensure 'planned' doubled)
-		A68
 		~~~~~~~~~~~~~~~~~~
+	(3. BS - PL) Backup/Training :: Inoruuk
+		E90
 	(4. Em - LA) InfOther/Double :: Water
 		E97
 	(5. Em - LA) InfOther/Double :: Light
@@ -48,3 +99,23 @@ Planned to Date:: 18 Characters Used.
 		E93
 	(9. Em - PL) InfOther/Double :: Quellious
 		C40, E92
+
+
+--------------------------------------------------------------------------------------
+------------------------- FUTURE force / NEXT Generation -----------------------------
+--------------------------------------------------------------------------------------
+
+	(1. CC - LA) Company Commander :: Null
+		C62, M48
+		~~~~~~~~~~~~~~~~~~
+	(2. PS - PL) Primary Scout :: Padrey
+		A83
+	(3. BS - PL) Backup/Training :: Tigon
+		A68
+	(4. ES - PL) Tertiary/Misc :: TBD
+		~~~~~~~~~~~~~~~~~~
+	(5. KA - LA) Assassin/Agent :: TBD
+	(6. KA - LA) Assassin/Agent :: TBD
+	(7. KA - LA) Assassin/Agent :: TBD
+	(8. KA - LA) Assassin/Agent :: TBD
+	(9. KA - LA) Assassin/Agent :: TBD

@@ -18,15 +18,13 @@ PLANE
     Shadow Walker (Bribing this turn with Water - @2527)
     Tigon (Joining 'Earth's company, new this turn; moving to 2831 - in EM company, so double at any time)
   EMISSARIES
-    Bristlebane E93 (this turn @3036, own camp/tower - moving to upgrade @18 loyalty camp)
+    Bristlebane E93 (joining 'Aquisition' Company)    
+    Bertoxxulous E87 (joining 'Aquisition' Company)
+    Quellious C40/E90 (joining 'Aquisition' Company)
     Inoruuk E90 (this turn @2527, SK MT/tower - moving to upgrade @20 loyalty camp)
-    Bertoxxulous E87 (this turn @2730, BaP capital - moving to upgrade @25 loyalty camp)
-    Quellious C40/E90 (this turn @2039, 'most' defensive location - moving to placing camp @2439; critical army-block loc)
 	------ 
     Riadeegha C39/E40/M25 (InfYour 2339 village @26 loyalty; moving 2438 village @45 loyalty)
-    Angbor C22/A21/E18 (InfYour 2438 village @45 loyalty
-    Or Kesulos (solusek ro spelled backwards) *NEW* this turn C10/A10/E10
-    ?????????? *NEW* next turn C10/A10/E10
+    Angbor C22/A21/E18 (InfYour 2438 village @45 loyalty; waiting for Riadeegha)
 	======
 	Bristlebane/Inoruuk/Bertoxxulous === upgrade 'next turn'
 		@2535 - camp @28 loyalty
