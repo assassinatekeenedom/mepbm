@@ -15,8 +15,8 @@ REMAINING TO DOUBLE
 ===================
 PLANE
   AGENTS
-    Shadow Walker (newly bribed)
-    Tigon (currently scouting!!)
+    Shadow Walker (Bribing this turn with Water - @2527)
+    Tigon
   EMISSARIES
     Bertoxxulous
     Bristlebane
@@ -25,7 +25,7 @@ PLANE
 
 LAND
   AGENTS
-    Aldhelm Demuret
+    Aldhelm Demuret (Bribing this turn with Inoruuk - @2527)
     Klu Relortin
     Tartas Izain
     Dulish (currently just a thief)
