@@ -49,9 +49,14 @@ T29
  Orkamur was assassinated.		//A20+; BaP
  Silion was kidnapped.			//C10+ A20+; BaP
 
+T30
+ Fornagath was assassinated.		//A40+; BaP
+ Ulwath was assassinated.		//C10+ E50+; BaP
+ Athrazoc was assassinated.		//A40+; BaP
+ Ulzog was assassinated.		//C30+; SK
+
 
 	_______________
 	Ufgamog A60+; BaP
-	Ulwathe C10/E40+; BaP
 	Gimlan E70+; BaP
 	Saptheth C20+; BaP
