@@ -3,6 +3,7 @@ OUR DOUBLE AGENTS
 Brell Serilis (Pl)
 Ordun Halbor (Pl)
 Padrey (Pl)
+Samaub (Pl)
 Cinard (La)
 Qesset (La)
 Cjaiin (WC)
@@ -14,7 +15,7 @@ REMAINING TO DOUBLE
 PLANE
   AGENTS
     Rallos Zek (scout for OU/SaS, may already be doubled by ally elsewhere)
-    Samaub (likely doubled by NK)
+    Shadow Walker (newly bribed)
     Tigon (currently scouting!!)
   EMISSARIES
     Bertoxxulous
