@@ -1,0 +1,50 @@
+Planned to Date:: 18 Characters Used.
+
+10/14 of LA :: naming +7 agents.
+8/15 of PL :: naming +3/4 C/A/Es, + 3/4 As.
+
+---------- ALPHA force / GANK Squad / Primary Attack ----------
+
+	(1. CC - LA) Company Commander :: Dark
+		C69, M45
+		~~~~~~~~~~~~~~~~~~
+	(2. PS - PL) Primary Scout :: Brell Serilis 
+		A83 (A118 w/Ring of Curufin; transferring this turn)
+	(3. BS - PL) Backup/Training	:: Ordun Halbor 
+		A85
+	(4. ES - PL) Tertiary/Misc :: Samaub
+		A85/M15
+		~~~~~~~~~~~~~~~~~~
+	(5. KA - LA) Assassin/Agent :: Aldehlm Demuret
+		A76
+	(6. KA - LA) Assassin/Agent :: Cinard
+		A87
+	(7. KA - LA) Assassin/Agent :: Klu Relortin
+		A83
+	(8. KA - LA) Assassin/Agent :: Qesset
+		A85
+	(9. KA - LA) Assassin/Agent :: Tartas Izain
+		A86
+
+---------- BETA force / Aquisition Squad / Secondary Attack  ----------
+
+	(1. CC - LA) Company Commander :: Earth
+		C41, E91
+		~~~~~~~~~~~~~~~~~~
+	(2. PS - PL) Primary Scout :: Shadow Walker (ensure doubled)
+		A70
+	(3. BS - PL) Backup/Training :: Tigon (ensure 'planned' doubled)
+		A68
+		~~~~~~~~~~~~~~~~~~
+	(4. Em - LA) InfOther/Double :: Water
+		E97
+	(5. Em - LA) InfOther/Double :: Light
+		E78
+	(6. Em - LA) InfOther/Double :: Wind
+		E88
+	(7. Em - PL) InfOther/Double :: Bertoxxulous
+		E87
+	(8. Em - PL) InfOther/Double :: Bristlebane
+		E93
+	(9. Em - PL) InfOther/Double :: Quellious
+		C40, E92

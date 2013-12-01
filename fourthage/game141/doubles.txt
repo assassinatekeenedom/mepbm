@@ -16,12 +16,31 @@ REMAINING TO DOUBLE
 PLANE
   AGENTS
     Shadow Walker (Bribing this turn with Water - @2527)
-    Tigon
+    Tigon (Joining 'Earth's company, new this turn; moving to 2831 - in EM company, so double at any time)
   EMISSARIES
-    Bertoxxulous
-    Bristlebane
-    Inoruuk
-    Quellious
+    Bristlebane E93 (this turn @3036, own camp/tower - moving to upgrade @18 loyalty camp)
+    Inoruuk E90 (this turn @2527, SK MT/tower - moving to upgrade @20 loyalty camp)
+    Bertoxxulous E87 (this turn @2730, BaP capital - moving to upgrade @25 loyalty camp)
+    Quellious C40/E90 (this turn @2039, 'most' defensive location - moving to placing camp @2439; critical army-block loc)
+	------ 
+    Riadeegha C39/E40/M25 (InfYour 2339 village @26 loyalty; moving 2438 village @45 loyalty)
+    Angbor C22/A21/E18 (InfYour 2438 village @45 loyalty
+    Or Kesulos (solusek ro spelled backwards) *NEW* this turn C10/A10/E10
+    ?????????? *NEW* next turn C10/A10/E10
+	======
+	Bristlebane/Inoruuk/Bertoxxulous === upgrade 'next turn'
+		@2535 - camp @28 loyalty
+		@2736 - camp @30 loyalty
+		@3136 - camp @32 loyalty
+		~~~~~~~~~~~~~~~~~~~~~~~~
+		@@Use Riadeegha/Angbor/Or Kesulos/?????????? at @3034 camp @43 (need ~60E/+20 loyalty)
+		@@Use Riadeegha/Angbor/Or Kesulos/?????????? at @2534 camp @45 (need ~60E/+20 loyalty)
+		@@Use Riadeegha/Angbor/Or Kesulos/?????????? at @3029 camp @~45 (need ~60E/+20 loyalty)
+	Quellious === place 'next turn'
+		@3135 - good mixture of strategic benefits: offensive@8x fed HC enemy PCs, defense@3037/3036/3135 'fortification wall'.
+		~~~~~~~~~~~~~~~~~~~~~~~~
+		@@Backfill emplty Region locations: 3035, 2936, 2835, 2735, & 2635.
+    
 
 LAND
   AGENTS
