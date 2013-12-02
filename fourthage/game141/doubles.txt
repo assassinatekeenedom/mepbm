@@ -4,9 +4,11 @@ Brell Serilis (Pl)
 Ordun Halbor (Pl)
 Padrey (Pl)
 Samaub (Pl)
+Shadow Walker (Pl)
 Rallos Zek (Pl) (doubled by SaS)
 Cinard (La)
 Qesset (La)
+Aldhelm Demuret (La)
 Cjaiin (WC)
 Suldun (WC)
 
@@ -15,7 +17,6 @@ REMAINING TO DOUBLE
 ===================
 PLANE
   AGENTS
-    Shadow Walker (Bribing this turn with Water - @2527)
     Tigon (Joining 'Earth's company, new this turn; moving to 2831 - in EM company, so double at any time)
   EMISSARIES
     Bristlebane E93 (joining 'Aquisition' Company)    
@@ -42,7 +43,6 @@ PLANE
 
 LAND
   AGENTS
-    Aldhelm Demuret (Bribing this turn with Inoruuk - @2527)
     Klu Relortin
     Tartas Izain
     Dulish (currently just a thief)
