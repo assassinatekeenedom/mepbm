@@ -1,0 +1,67 @@
+       Middle-earth Play-By-Mailª  Fourth Age, circa 1000 Game # 141
+          This game has been won by the Good nations!!!
+               Victory Condition B
+
+           Final standings by nation w/o Victory Conditions
+       1)    1467      11)     700      21)     650
+
+       2)     400      12)     833      22)    1084
+
+       3)    1158      13)    1175      23)    1450
+
+       4)     400      14)     400      24)     575
+
+       5)     600      15)     925      25)    1533
+
+       6)     400      16)     525
+
+       7)     625      17)    1125
+
+       8)     400      18)     600
+
+       9)     675      19)     400
+
+      10)     400      20)     700
+
+           Final standings by nation with Victory Conditions
+       1)    1567      11)     700      21)     950
+
+       2)     600      12)     833      22)    1384
+
+       3)    1258      13)    1175      23)    1450
+
+       4)     500      14)     500      24)     675
+
+       5)     800      15)     925      25)    1633
+
+       6)     500      16)     625
+
+       7)     725      17)    1125
+
+       8)     500      18)     600
+
+       9)     675      19)     400
+
+      10)     400      20)     800
+
+           Final standings by rank
+        xx = expired - can not win or place
+      25)    Good    1633        20)    Evil     800        14)    Evil     500xx
+
+       1)    Evil    1567         5)    Good     800         8)    Good     500xx
+
+      23)    Good    1450         7)    Good     725         6)    Good     500xx
+
+      22)    Good    1384        11)    Good     700        10)    Good     400xx
+
+       3)    Good    1258        24)    Good     675        19)    Evil     400xx
+
+      13)    Evil    1175         9)    Good     675  
+
+      17)    Evil    1125        16)    Evil     625  
+
+      21)    Good     950         2)    Evil     600  
+
+      15)    Evil     925        18)    Evil     600  
+
+      12)    Evil     833         4)    Good     500xx
